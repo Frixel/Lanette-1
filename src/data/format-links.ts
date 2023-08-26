@@ -32,7 +32,11 @@ export const formatLinks: Dict<IFormatDataLinks> = {
     'gen9nationaldex': {
         teams: 'https://www.smogon.com/forums/threads/3714863/',
     },
-
+	},
+    'gen9pu': {
+        teams: 'https://www.smogon.com/forums/threads/3719989/',
+    },
+		
 	// Gen 8
 	'gen8anythinggoes': {
 		info: 'https://www.smogon.com/dex/ss/formats/ag',
